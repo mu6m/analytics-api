@@ -1,6 +1,9 @@
 # analytics api
 
-an api used to detect the users accessing your website using a simple javascript tag needs a web ui to create id
+an api used to detect the users accessing your website using a simple javascript tag 
+
+~needs a web ui to create id~
+it has a webui now on analytics-web repo
 
 ```
 <script>
